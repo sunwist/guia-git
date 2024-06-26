@@ -8,7 +8,8 @@ O guia tem como objetivo ser um recurso prático, reunindo os comandos mais comu
 O primeiro passo essencial é configurar o Git em sua máquina após concluir o processo de instalação, o qual deve estar finalizado neste momento. Para auxiliar nesse processo, você consultar vídeos que mostram como instalar essa ferramenta adequadamente.
 
 1. Verifique a instalação do Git
-Antes de configurar, verifique se o Git está instalado corretamente. Abra o terminal e digite o comando abaixo para confirmar que a ferramenta está pronta para uso com a versão que foi instalada.
+
+No terminal digite o comando abaixo para confirmar que a ferramenta está pronta para uso com a versão que foi instalada.
 
         git --version
 
