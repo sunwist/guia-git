@@ -173,7 +173,7 @@ O comando redefine o repositório para o estado do commit `88877ee`, descartando
 
 ## Em breve
 
-Conteúdo sobre branch remoto e local, merge e tags.
+Conteúdo sobre branch remota e local, merge e tags.
 
 ## Finalização
 
