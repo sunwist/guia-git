@@ -1,4 +1,4 @@
-# Guia Definitivo do Git - Comandos
+# Guia Prático e Definitivo do Git - Comandos
 
 O guia tem como objetivo ser um recurso prático, reunindo os comandos mais comuns e necessários para iniciantes que estão se familiarizando com o Git e o versionamento de código.
 
