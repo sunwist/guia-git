@@ -49,6 +49,14 @@ Este comando informa o status dos arquivos no repositório Git.
 
     git status
 
+## Primeiras Modificações
+Para que o repositório esteja apto a enviar as modificações pela primeira vez, você precisa configurar o repositório local para rastrear o repositório remoto.
+
+        git push origin main
+Mas se for apenas um repositório local sem conexão com o remoto:
+
+        git push -u origin main
+
 ## Enviando Modificações (branch padrão)
 
     git add .
